@@ -1,0 +1,189 @@
+[
+  {
+    "id": "sigiriya-rock-fortress",
+    "name": "Sigiriya Rock Fortress",
+    "category": "historical",
+    "lat": 7.9572,
+    "lon": 80.7603,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1612862862126-865765df2ded?w=800&q=80",
+    "description": "Rising 200 metres above the surrounding jungle, Sigiriya is Sri Lanka's most iconic landmark and a UNESCO World Heritage Site built by King Kashyapa in the 5th century. This ancient rock citadel features remarkable frescoes of celestial maidens, a lion-gate entrance, and meticulously planned water gardens at its base. It is widely regarded as one of the best-preserved examples of ancient urban planning in the entire world.",
+    "address": "Sigiriya, Matale District, Central Province, Sri Lanka"
+  },
+  {
+    "id": "galle-fort",
+    "name": "Galle Fort",
+    "category": "historical",
+    "lat": 6.0332,
+    "lon": 80.217,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1579989197111-928f586796a3?w=800&q=80",
+    "description": "A UNESCO World Heritage Site, Galle Fort is a remarkably well-preserved Dutch colonial fortification built in the 17th century on Sri Lanka's southwestern tip. Within its thick ocean-facing ramparts lie cobblestone streets, colonial-era architecture, boutique hotels, art galleries, and vibrant cafés that blend centuries of history with contemporary culture. The fort's oceanfront bastions offer breathtaking sunset panoramas across the Indian Ocean.",
+    "address": "Galle, Southern Province, Sri Lanka"
+  },
+  {
+    "id": "temple-of-the-tooth",
+    "name": "Sri Dalada Maligawa (Temple of the Tooth)",
+    "category": "historical",
+    "lat": 7.2936,
+    "lon": 80.6413,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1665849050430-5e8c16bacf7e?w=800&q=80",
+    "description": "Enshrined within the royal palace complex of the Kingdom of Kandy, the Temple of the Sacred Tooth Relic is the most revered Buddhist site in Sri Lanka and a UNESCO World Heritage Site. It houses a tooth relic of the Lord Buddha, attracting thousands of pilgrims daily and hosting the spectacular Esala Perahera festival each August. The golden-roofed temple overlooking the serene Kandy Lake is a masterpiece of Kandyan architectural heritage.",
+    "address": "Kandy, Central Province, Sri Lanka"
+  },
+  {
+    "id": "polonnaruwa-ancient-city",
+    "name": "Ancient City of Polonnaruwa",
+    "category": "historical",
+    "lat": 7.9403,
+    "lon": 81.0188,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1709729508706-87741ec2d50a?w=800&q=80",
+    "description": "Sri Lanka's second ancient capital and a UNESCO World Heritage Site, Polonnaruwa flourished brilliantly between the 11th and 13th centuries under the great kings Parakramabahu I and Nissankamalla. The site is home to the iconic Gal Vihara rock temple with its colossal monolithic Buddha statues, the ornate Vatadage relic shrine, and the Royal Palace complex. It is considered one of the most exquisitely planned archaeological sites in all of Asia.",
+    "address": "Polonnaruwa, North Central Province, Sri Lanka"
+  },
+  {
+    "id": "dambulla-cave-temple",
+    "name": "Dambulla Royal Cave Temple",
+    "category": "historical",
+    "lat": 7.8568,
+    "lon": 80.6492,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1656497107500-a2bc32cbe7d4?w=800&q=80",
+    "description": "The largest and best-preserved cave temple complex in Sri Lanka, the Dambulla Golden Temple is a UNESCO World Heritage Site with origins dating to the 1st century BCE. Five sacred caves contain 153 Buddha statues and intricate ceiling paintings covering 2,100 square metres, representing one of the finest collections of Buddhist art in Asia. The 160-metre rock formation commands sweeping views over the ancient Cultural Triangle below.",
+    "address": "Dambulla, Matale District, Central Province, Sri Lanka"
+  },
+  {
+    "id": "sacred-city-anuradhapura",
+    "name": "Sacred City of Anuradhapura",
+    "category": "historical",
+    "lat": 8.3126,
+    "lon": 80.4039,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1712746547176-3a4812c63da8?w=800&q=80",
+    "description": "Founded in the 4th century BCE, Anuradhapura is Sri Lanka's first ancient capital and one of the oldest continuously inhabited cities in the world, now a UNESCO World Heritage Site. The city shelters the sacred Sri Maha Bodhi — a fig tree grown from a cutting of the original tree under which the Buddha attained enlightenment, making it the oldest documented tree in human history. Its soaring white dagobas, including the Ruwanwelisaya and the Jetavanaramaya, remain among the tallest ancient structures ever built by humankind.",
+    "address": "Anuradhapura, North Central Province, Sri Lanka"
+  },
+  {
+    "id": "yala-national-park",
+    "name": "Yala National Park",
+    "category": "nature",
+    "lat": 6.3728,
+    "lon": 81.5236,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1621847473222-d85c022cbf07?w=800&q=80",
+    "description": "Sri Lanka's most celebrated national park, Yala is world-famous for having the highest density of wild leopards on the planet, alongside herds of elephants, sloth bears, saltwater crocodiles, and over 200 bird species. The park spans six distinct ecosystems from moist monsoon forest and open parklands to coastal lagoons and wetlands, covering over 979 square kilometres. A dawn jeep safari through Yala's scrubland offers the electric thrill of spotting a leopard draped across a sun-warmed rock.",
+    "address": "Tissamaharama, Hambantota District, Southern Province, Sri Lanka"
+  },
+  {
+    "id": "nine-arch-bridge-ella",
+    "name": "Nine Arch Bridge, Ella",
+    "category": "nature",
+    "lat": 6.8802,
+    "lon": 81.0567,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1574611122955-5baa61496637?w=800&q=80",
+    "description": "One of the most photographed landmarks in the world's railway photography scene, the Nine Arch Bridge near Ella is a 19th-century colonial viaduct constructed from hand-cut stone and brick without any steel reinforcement. Suspended 24 metres above lush tea-plantation valleys, it produces a spine-tingling spectacle twice daily when the iconic blue Udarata Menike train rumbles across its nine arches through swirling mountain mist. The surrounding Ella village sits at 1,000 metres elevation and serves as the gateway to trails up Ella Rock and Little Adam's Peak.",
+    "address": "Ella, Badulla District, Uva Province, Sri Lanka"
+  },
+  {
+    "id": "mirissa-beach",
+    "name": "Mirissa Beach",
+    "category": "nature",
+    "lat": 5.9483,
+    "lon": 80.4716,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1668912321650-9c5452a1d960?w=800&q=80",
+    "description": "A sweeping crescent of golden sand framed by coconut palms and turquoise water, Mirissa is globally renowned as one of the world's prime whale-watching destinations, where blue whales and sperm whales surface regularly between November and April. The town has grown from a quiet backpacker hideaway into Sri Lanka's most vibrant southern beach resort, known for its fresh seafood restaurants and lively sunset atmosphere at Parrot Rock. Its warm, shallow waters are perfect for snorkelling alongside sea turtles and encountering spinner dolphins at dawn.",
+    "address": "Mirissa, Matara District, Southern Province, Sri Lanka"
+  },
+  {
+    "id": "horton-plains-national-park",
+    "name": "Horton Plains National Park",
+    "category": "nature",
+    "lat": 6.8018,
+    "lon": 80.8056,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1585171328560-947fbd92d6f0?w=800&q=80",
+    "description": "Perched at 2,100 metres in Sri Lanka's mist-shrouded central highlands and designated part of a UNESCO World Heritage Site, Horton Plains is a hauntingly beautiful plateau of montane grassland, cloud forest, and endemic biodiversity. The park's supreme highlight is World's End — a sheer 880-metre cliff edge that offers vertiginous views across three provinces before clouds consume the vista by mid-morning. Sambar deer, endemic purple-faced langurs, and elusive leopards inhabit its trails alongside the tumbling twin cascades of Baker's Falls.",
+    "address": "Ohiya, Nuwara Eliya District, Central Province, Sri Lanka"
+  },
+  {
+    "id": "adams-peak-sri-pada",
+    "name": "Adam's Peak (Sri Pada)",
+    "category": "nature",
+    "lat": 6.8096,
+    "lon": 80.4994,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1539021929149-88832c42bc15?w=800&q=80",
+    "description": "A sacred 2,243-metre conical mountain simultaneously revered by Buddhists, Hindus, Muslims, and Christians for the 1.8-metre sacred footprint (Sri Pada) near its summit, Adam's Peak is one of the most profoundly spiritual pilgrimage sites in Asia. Each season from December to May, tens of thousands of devotees ascend 5,500 lamp-lit steps through the night to witness the triangular shadow the perfect pyramid casts at sunrise over the misty valleys. The phenomenon of the self-casting geometric shadow at dawn is considered one of the most extraordinary natural spectacles on Earth.",
+    "address": "Dalhousie, Ratnapura District, Sabaragamuwa Province, Sri Lanka"
+  },
+  {
+    "id": "sinharaja-forest-reserve",
+    "name": "Sinharaja Forest Reserve",
+    "category": "nature",
+    "lat": 6.4085,
+    "lon": 80.5002,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1703566567802-e1945c83f0cb?w=800&q=80",
+    "description": "Sri Lanka's last remaining primeval lowland rainforest and a UNESCO World Heritage Site, Sinharaja is a globally significant biodiversity hotspot where over 64% of its trees are endemic to the island. The forest is celebrated among birders for its extraordinary mixed-species flocks containing 19 of Sri Lanka's 20 endemic forest birds, including the spectacularly blue Sri Lanka blue magpie. Walking its cathedral-canopy trails reveals a world of endemic amphibians, iridescent lizards, giant tree snails, and ancient Dipterocarpus trees soaring 40 metres into the misty sky.",
+    "address": "Sabaragamuwa & Southern Provinces, Sri Lanka"
+  },
+  {
+    "id": "nuwara-eliya-tea-country",
+    "name": "Nuwara Eliya Hill Country",
+    "category": "nature",
+    "lat": 6.9497,
+    "lon": 80.7891,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1559038298-ef4eecdfdbb3?w=800&q=80",
+    "description": "Sri Lanka's 'Little England' sits at 1,868 metres in the island's central highlands, surrounded by rolling estate after estate of emerald-green tea bushes that produce some of the world's most prized Ceylon teas. The town retains a charming colonial character with Victorian bungalows, a racecourse, manicured golf links, and cascading rose gardens at every turn. Visitors can tour historic Mackwoods and Pedro Tea Estates, witness the hypnotic rhythms of tea pickers at work, and sip perfectly brewed high-grown Orange Pekoe whilst gazing across the misty landscape.",
+    "address": "Nuwara Eliya, Nuwara Eliya District, Central Province, Sri Lanka"
+  },
+  {
+    "id": "udawalawe-national-park",
+    "name": "Udawalawe National Park",
+    "category": "nature",
+    "lat": 6.4747,
+    "lon": 80.8999,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1552055570-5c41ef975579?w=800&q=80",
+    "description": "Lying on the boundary of Sri Lanka's southern and Sabaragamuwa provinces, Udawalawe is broadly considered the best place in all of Asia to observe wild Asian elephants, with a resident population exceeding 500 that gathers daily around the central reservoir. Unlike many African parks, elephants here can be watched at incredibly close range year-round — bathing, playing, and marching across open grasslands in large breeding herds. The park is also home to Sri Lankan leopards, water buffalo, crocodiles, and is a critical stopover for migratory birds.",
+    "address": "Embilipitiya, Ratnapura District, Sabaragamuwa Province, Sri Lanka"
+  },
+  {
+    "id": "heritance-kandalama",
+    "name": "Heritance Kandalama",
+    "category": "hotels",
+    "lat": 7.9415,
+    "lon": 80.6587,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1708338914870-797de586672d?w=800&q=80",
+    "description": "Designed by legendary Sri Lankan architect Geoffrey Bawa and completed in 1994, Heritance Kandalama is a globally acclaimed masterpiece of tropical modernism that blends invisibly into a jungle-clad cliff face overlooking the ancient Kandalama Reservoir. The kilometre-long structure was built without felling a single tree, and vegetation deliberately trails over its stone façades so the building appears to grow from the living rock. As the first hotel in Asia to receive Green Globe certification, it offers dramatic views of Sigiriya Rock from its open-air gallery corridors.",
+    "address": "Kandalama, Dambulla, Matale District, Central Province, Sri Lanka"
+  },
+  {
+    "id": "jetwing-lighthouse-galle",
+    "name": "Jetwing Lighthouse Hotel",
+    "category": "hotels",
+    "lat": 6.0383,
+    "lon": 80.2222,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1525420745478-9e5791918455?w=800&q=80",
+    "description": "Another architectural tour de force by Geoffrey Bawa, the Jetwing Lighthouse stands dramatically on a rocky ocean-facing promontory in Galle, fusing bold modernist curves with the raw power of the Indian Ocean. The hotel is a design pilgrimage destination featuring sweeping curved corridors, monumental staircases, and extraordinary murals by celebrated artist Laki Senanayake. Its clifftop position overlooking the crashing southern surf, moments from Galle Fort, makes it one of the most romantically situated luxury hotels in Sri Lanka.",
+    "address": "Dadella, Galle, Southern Province, Sri Lanka"
+  },
+  {
+    "id": "98-acres-resort-ella",
+    "name": "98 Acres Resort & Spa",
+    "category": "hotels",
+    "lat": 6.875,
+    "lon": 81.0467,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1609681980718-340e7f4b11d7?w=800&q=80",
+    "description": "Perched dramatically on a hilltop within a 98-acre working tea estate above the village of Ella, this award-winning boutique resort commands arguably the most spectacular 360-degree panorama in Sri Lanka — sweeping across the Ella Gap, the Nine Arch Bridge, misty mountain ranges, and a shimmering carpet of tea. Individually designed villas cascade down terraced tea-bush slopes, each with private verandas framing iconic views of Little Adam's Peak and Ella Rock rising beyond the mist. Guests can hand-pick tea at dawn, hike to sunrise viewpoints, and drift into a pool suspended between earth and sky.",
+    "address": "Passara Road, Ella, Badulla District, Uva Province, Sri Lanka"
+  }
+]

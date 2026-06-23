@@ -1,0 +1,69 @@
+.category-filter {
+  display: flex;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-md) var(--spacing-md);
+  overflow-x: auto;
+  white-space: nowrap;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.category-filter::-webkit-scrollbar {
+  display: none;
+}
+
+.filter-chip {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: var(--spacing-sm) var(--spacing-md);
+  min-height: 48px;
+  flex-shrink: 0;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-full);
+  background: var(--color-card);
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  scroll-snap-align: start;
+  -webkit-tap-highlight-color: transparent;
+  white-space: nowrap;
+}
+
+.filter-chip.active {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: white;
+  box-shadow: 0 2px 12px rgba(46, 125, 50, 0.35);
+}
+
+.filter-chip:active {
+  transform: scale(0.95);
+}
+
+@media (hover: hover) {
+  .filter-chip:not(.active):hover {
+    border-color: var(--color-primary-light);
+    color: var(--color-primary);
+    background: var(--color-primary-alpha);
+  }
+}
+
+.filter-chip-icon {
+  font-size: 16px;
+  line-height: 1;
+}
+
+.filter-chip-label {
+  line-height: 1;
+}
+
+/* Fix for horizontal scroll padding being ignored in some browsers */
+.filter-chip:last-child {
+  margin-right: var(--spacing-md);
+}

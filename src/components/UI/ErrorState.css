@@ -1,0 +1,58 @@
+.error-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-xxl) var(--spacing-lg);
+  text-align: center;
+  min-height: 300px;
+}
+
+.error-icon {
+  margin-bottom: var(--spacing-md);
+  opacity: 0.8;
+}
+
+.error-title {
+  font-size: var(--font-size-lg);
+  font-weight: 700;
+  color: var(--color-text);
+  margin: 0 0 var(--spacing-xs);
+}
+
+.error-message {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  max-width: 280px;
+  line-height: 1.5;
+  margin: 0 0 var(--spacing-lg);
+}
+
+.error-retry-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  padding: var(--spacing-sm) var(--spacing-lg);
+  min-height: 48px;
+  background: var(--color-primary);
+  color: white;
+  border: none;
+  border-radius: var(--radius-full);
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 2px 8px rgba(46, 125, 50, 0.3);
+}
+
+.error-retry-btn:active {
+  transform: scale(0.96);
+}
+
+@media (hover: hover) {
+  .error-retry-btn:hover {
+    background: var(--color-primary-dark);
+    box-shadow: 0 4px 16px rgba(46, 125, 50, 0.4);
+  }
+}

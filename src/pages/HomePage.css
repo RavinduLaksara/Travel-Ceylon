@@ -1,0 +1,106 @@
+/* ===========================
+   HomePage Styles
+   =========================== */
+
+/* --- Hero Section --- */
+.hero-section {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 50%, var(--color-accent) 100%);
+  padding: var(--spacing-xl) var(--spacing-md) var(--spacing-lg);
+  color: white;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.hero-greeting {
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  margin-bottom: var(--spacing-xs);
+  line-height: 1.2;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+.hero-subtitle {
+  font-size: var(--font-size-sm);
+  opacity: 0.9;
+  line-height: 1.5;
+  max-width: 320px;
+}
+
+/* Decorative circles */
+.hero-decoration {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  pointer-events: none;
+}
+
+.hero-circle {
+  position: absolute;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.hero-circle--1 {
+  width: 200px;
+  height: 200px;
+  top: -60px;
+  right: -40px;
+}
+
+.hero-circle--2 {
+  width: 120px;
+  height: 120px;
+  bottom: -30px;
+  right: 60px;
+}
+
+.hero-circle--3 {
+  width: 80px;
+  height: 80px;
+  top: 20px;
+  right: 120px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+/* --- Results Info --- */
+.results-info {
+  padding: 0 var(--spacing-md) var(--spacing-sm);
+}
+
+.results-count {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+  font-weight: 500;
+}
+
+/* --- Empty State --- */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-xxl) var(--spacing-lg);
+  text-align: center;
+  color: var(--color-text-secondary);
+  min-height: 300px;
+}
+
+.empty-state h3 {
+  font-size: var(--font-size-lg);
+  font-weight: 700;
+  color: var(--color-text);
+  margin: var(--spacing-md) 0 var(--spacing-xs);
+}
+
+.empty-state p {
+  font-size: var(--font-size-sm);
+}

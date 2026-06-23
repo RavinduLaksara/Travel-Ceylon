@@ -1,0 +1,52 @@
+.distance-display {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-sm);
+}
+
+.distance-display--loading {
+  color: var(--color-text-secondary);
+  background: var(--color-surface);
+}
+
+.distance-display--error {
+  color: var(--color-text-secondary);
+  background: #FFF3E0;
+  flex-wrap: wrap;
+}
+
+.distance-error-text {
+  font-size: var(--font-size-xs);
+}
+
+.distance-display--success {
+  background: var(--color-primary-alpha);
+  color: var(--color-primary-dark);
+}
+
+.distance-value {
+  font-weight: 700;
+  font-size: var(--font-size-base);
+  color: var(--color-primary);
+}
+
+.distance-label {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+}
+
+.distance-loader {
+  width: 16px;
+  height: 16px;
+  border: 2px solid var(--color-border);
+  border-top-color: var(--color-primary);
+  border-radius: 50%;
+  animation: distanceSpin 0.8s linear infinite;
+}
+
+@keyframes distanceSpin {
+  to { transform: rotate(360deg); }
+}
