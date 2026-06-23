@@ -1,4 +1,9 @@
 .category-filter {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: var(--color-background, #F8F9FA);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
   display: flex;
   gap: var(--spacing-sm);
   padding: var(--spacing-md) var(--spacing-md);
